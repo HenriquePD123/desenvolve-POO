@@ -1,0 +1,1 @@
+O paradigma mais indicado seria a programação orientada a objetos, pois tal paradigma garante que informações sobre livros, autores e usuários, por exemplo, ficarão armazenados e serão  acessíveis em futuras manutenções ou implementações no código.   
